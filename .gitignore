@@ -1,0 +1,12 @@
+# Python environment
+.venv/
+__pycache__/
+
+# CT-RATE dataset files
+*.csv
+*.nii
+*.nii.gz
+
+CT-RATE_Original_Paper.pdf
+# macOS
+.DS_Store
